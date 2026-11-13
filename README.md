@@ -2,7 +2,7 @@
 
 # Hi, I'm lucas👋
 
-### FiveM Developer • Full-Stack Developer • UI Designer
+### Discord Developer • Full-Stack Developer • UI Designer
 
 I enjoy building clean, efficient resources, creating modern interfaces, and solving complex development problems.
 
